@@ -1,4 +1,4 @@
-<h2>DBMS operations</h2>
+<h2>DBMS functions-operations</h2>
 
 This project was designed to study basic processing methods in very large sets of data stored in the secondary memory. The purpose was to implement basic DBMS functions, such as sorting, removing duplicates, merging and fragmentation of two files. 
 
